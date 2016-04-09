@@ -4249,20 +4249,20 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 1576,mother,113,female,56,tt0078748,Alien,1979,6
 1576,parker,980,male,40,tt0078748,Alien,1979,6
 1576,ripley,1884,female,30,tt0078748,Alien,1979,6
-1582,aaron,1038,male,35,tt0103644,Alien³,1992,116
-1582,andrews,1092,male,58,tt0103644,Alien³,1992,116
-1582,bishop ii,179,male,52,tt0103644,Alien³,1992,116
-1582,boggs,111,male,NA,tt0103644,Alien³,1992,116
-1582,clemens,1396,male,46,tt0103644,Alien³,1992,116
-1582,david,161,male,46,tt0103644,Alien³,1992,116
-1582,dillon,1414,male,41,tt0103644,Alien³,1992,116
-1582,frank,172,male,NA,tt0103644,Alien³,1992,116
-1582,golic,343,male,33,tt0103644,Alien³,1992,116
-1582,gregor,116,male,NA,tt0103644,Alien³,1992,116
-1582,morse,499,male,34,tt0103644,Alien³,1992,116
-1582,murphy,210,male,39,tt0103644,Alien³,1992,116
-1582,rains,107,male,16,tt0103644,Alien³,1992,116
-1582,ripley,1846,female,43,tt0103644,Alien³,1992,116
+1582,aaron,1038,male,35,tt0103644,AlienÂ³,1992,116
+1582,andrews,1092,male,58,tt0103644,AlienÂ³,1992,116
+1582,bishop ii,179,male,52,tt0103644,AlienÂ³,1992,116
+1582,boggs,111,male,NA,tt0103644,AlienÂ³,1992,116
+1582,clemens,1396,male,46,tt0103644,AlienÂ³,1992,116
+1582,david,161,male,46,tt0103644,AlienÂ³,1992,116
+1582,dillon,1414,male,41,tt0103644,AlienÂ³,1992,116
+1582,frank,172,male,NA,tt0103644,AlienÂ³,1992,116
+1582,golic,343,male,33,tt0103644,AlienÂ³,1992,116
+1582,gregor,116,male,NA,tt0103644,AlienÂ³,1992,116
+1582,morse,499,male,34,tt0103644,AlienÂ³,1992,116
+1582,murphy,210,male,39,tt0103644,AlienÂ³,1992,116
+1582,rains,107,male,16,tt0103644,AlienÂ³,1992,116
+1582,ripley,1846,female,43,tt0103644,AlienÂ³,1992,116
 1597,bishop,1264,male,46,tt0090605,Aliens,1986,199
 1597,burke,1710,male,29,tt0090605,Aliens,1986,199
 1597,corporal ferro,148,female,NA,tt0090605,Aliens,1986,199
@@ -8568,27 +8568,27 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 2745,sera,7066,female,32,tt0113627,Leaving Las Vegas,1995,64
 2745,waitress at mal,206,female,NA,tt0113627,Leaving Las Vegas,1995,64
 2745,yuri,1312,male,37,tt0113627,Leaving Las Vegas,1995,64
-2754,bamatabois,225,male,35,tt1707386,Les Misérables,2012,162
-2754,beggar,299,male,NA,tt1707386,Les Misérables,2012,162
-2754,bishop,301,male,68,tt1707386,Les Misérables,2012,162
-2754,cosette,626,female,27,tt1707386,Les Misérables,2012,162
-2754,courfeyrac,137,male,NA,tt1707386,Les Misérables,2012,162
-2754,enjolras,954,male,29,tt1707386,Les Misérables,2012,162
-2754,Ã©ponine,789,female,22,tt1707386,Les Misérables,2012,162
-2754,fantine,820,female,30,tt1707386,Les Misérables,2012,162
-2754,foreman,177,male,32,tt1707386,Les Misérables,2012,162
-2754,gavroche,458,male,13,tt1707386,Les Misérables,2012,162
-2754,grantaire,171,male,NA,tt1707386,Les Misérables,2012,162
-2754,javert,1809,male,48,tt1707386,Les Misérables,2012,162
-2754,jean valjean,3211,male,44,tt1707386,Les Misérables,2012,162
-2754,joly,114,male,NA,tt1707386,Les Misérables,2012,162
-2754,Madame Thenardi,550,female,46,tt1707386,Les Misérables,2012,162
-2754,main factory wo,135,female,NA,tt1707386,Les Misérables,2012,162
-2754,marius,1312,male,30,tt1707386,Les Misérables,2012,162
-2754,tall customer,134,male,NA,tt1707386,Les Misérables,2012,162
-2754,Thenardier,1510,male,41,tt1707386,Les Misérables,2012,162
-2754,Toothman,165,male,44,tt1707386,Les Misérables,2012,162
-2754,Whore 1,159,female,47,tt1707386,Les Misérables,2012,162
+2754,bamatabois,225,male,35,tt1707386,Les MisÃ©rables,2012,162
+2754,beggar,299,male,NA,tt1707386,Les MisÃ©rables,2012,162
+2754,bishop,301,male,68,tt1707386,Les MisÃ©rables,2012,162
+2754,cosette,626,female,27,tt1707386,Les MisÃ©rables,2012,162
+2754,courfeyrac,137,male,NA,tt1707386,Les MisÃ©rables,2012,162
+2754,enjolras,954,male,29,tt1707386,Les MisÃ©rables,2012,162
+2754,Ã©ponine,789,female,22,tt1707386,Les MisÃ©rables,2012,162
+2754,fantine,820,female,30,tt1707386,Les MisÃ©rables,2012,162
+2754,foreman,177,male,32,tt1707386,Les MisÃ©rables,2012,162
+2754,gavroche,458,male,13,tt1707386,Les MisÃ©rables,2012,162
+2754,grantaire,171,male,NA,tt1707386,Les MisÃ©rables,2012,162
+2754,javert,1809,male,48,tt1707386,Les MisÃ©rables,2012,162
+2754,jean valjean,3211,male,44,tt1707386,Les MisÃ©rables,2012,162
+2754,joly,114,male,NA,tt1707386,Les MisÃ©rables,2012,162
+2754,Madame Thenardi,550,female,46,tt1707386,Les MisÃ©rables,2012,162
+2754,main factory wo,135,female,NA,tt1707386,Les MisÃ©rables,2012,162
+2754,marius,1312,male,30,tt1707386,Les MisÃ©rables,2012,162
+2754,tall customer,134,male,NA,tt1707386,Les MisÃ©rables,2012,162
+2754,Thenardier,1510,male,41,tt1707386,Les MisÃ©rables,2012,162
+2754,Toothman,165,male,44,tt1707386,Les MisÃ©rables,2012,162
+2754,Whore 1,159,female,47,tt1707386,Les MisÃ©rables,2012,162
 2756,amanda hunsaker,741,female,24,tt0093409,Lethal Weapon,1987,145
 2756,beat cop,647,male,NA,tt0093409,Lethal Weapon,1987,145
 2756,joshua,563,male,43,tt0093409,Lethal Weapon,1987,145
@@ -13723,10 +13723,10 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 4516,mackintosh,1154,male,43,tt0126388,Legionnaire,1998,NA
 4516,maxim,499,male,NA,tt0126388,Legionnaire,1998,NA
 4516,sgt. steinkampf,1030,male,61,tt0126388,Legionnaire,1998,NA
-4519,1st stansfield,369,male,NA,tt0110413,Léon: The Professional,1994,67
-4519,leon's taxi dri,2931,male,53,tt0110413,Léon: The Professional,1994,67
-4519,mathilda,2155,female,13,tt0110413,Léon: The Professional,1994,67
-4519,stansfield,314,male,36,tt0110413,Léon: The Professional,1994,67
+4519,1st stansfield,369,male,NA,tt0110413,LÃ©on: The Professional,1994,67
+4519,leon's taxi dri,2931,male,53,tt0110413,LÃ©on: The Professional,1994,67
+4519,mathilda,2155,female,13,tt0110413,LÃ©on: The Professional,1994,67
+4519,stansfield,314,male,36,tt0110413,LÃ©on: The Professional,1994,67
 4525,charlie,2576,male,26,tt0892318,Letters to Juliet,2010,58
 4525,claire,1506,female,73,tt0892318,Letters to Juliet,2010,58
 4525,isabella,417,female,37,tt0892318,Letters to Juliet,2010,58
@@ -14089,15 +14089,15 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 4677,police captain,122,male,54,tt0024368,Mystery of the Wax Museum,1933,NA
 4677,policeman,134,male,49,tt0024368,Mystery of the Wax Museum,1933,NA
 4677,ralph burton,653,male,30,tt0024368,Mystery of the Wax Museum,1933,NA
-4679,det. captain ed,704,male,66,tt0102510,The Naked Gun 2½: The Smell of Fear,1991,179
-4679,det. lt. frank,1586,male,65,tt0102510,The Naked Gun 2½: The Smell of Fear,1991,179
-4679,det. nordberg,266,male,44,tt0102510,The Naked Gun 2½: The Smell of Fear,1991,179
-4679,dr. meinheimer,255,male,44,tt0102510,The Naked Gun 2½: The Smell of Fear,1991,179
-4679,hector savage,142,male,49,tt0102510,The Naked Gun 2½: The Smell of Fear,1991,179
-4679,jane spencer,917,female,46,tt0102510,The Naked Gun 2½: The Smell of Fear,1991,179
-4679,president georg,112,male,39,tt0102510,The Naked Gun 2½: The Smell of Fear,1991,179
-4679,quentin hapsbur,845,male,58,tt0102510,The Naked Gun 2½: The Smell of Fear,1991,179
-4679,ted olsen,196,male,NA,tt0102510,The Naked Gun 2½: The Smell of Fear,1991,179
+4679,det. captain ed,704,male,66,tt0102510,The Naked Gun 2Â½: The Smell of Fear,1991,179
+4679,det. lt. frank,1586,male,65,tt0102510,The Naked Gun 2Â½: The Smell of Fear,1991,179
+4679,det. nordberg,266,male,44,tt0102510,The Naked Gun 2Â½: The Smell of Fear,1991,179
+4679,dr. meinheimer,255,male,44,tt0102510,The Naked Gun 2Â½: The Smell of Fear,1991,179
+4679,hector savage,142,male,49,tt0102510,The Naked Gun 2Â½: The Smell of Fear,1991,179
+4679,jane spencer,917,female,46,tt0102510,The Naked Gun 2Â½: The Smell of Fear,1991,179
+4679,president georg,112,male,39,tt0102510,The Naked Gun 2Â½: The Smell of Fear,1991,179
+4679,quentin hapsbur,845,male,58,tt0102510,The Naked Gun 2Â½: The Smell of Fear,1991,179
+4679,ted olsen,196,male,NA,tt0102510,The Naked Gun 2Â½: The Smell of Fear,1991,179
 4684,abigail chase,1013,female,28,tt0368891,National Treasure,2004,242
 4684,benjamin frankl,3019,male,40,tt0368891,National Treasure,2004,242
 4684,ian howe,793,male,45,tt0368891,National Treasure,2004,242
@@ -16270,14 +16270,14 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 5521,phil,1448,male,53,tt0119282,Hercules,1997,187
 5521,young hercules,244,male,35,tt0119282,Hercules,1997,187
 5521,zeus,728,male,66,tt0119282,Hercules,1997,187
-5523,ash ketchum,728,female,33,tt0190641,Pokémon: The First Movie - Mewtwo Strikes Back,1998,158
-5523,brock,373,male,31,tt0190641,Pokémon: The First Movie - Mewtwo Strikes Back,1998,158
-5523,female scientis,110,female,24,tt0190641,Pokémon: The First Movie - Mewtwo Strikes Back,1998,158
-5523,lady,194,female,NA,tt0190641,Pokémon: The First Movie - Mewtwo Strikes Back,1998,158
-5523,meowth,251,female,38,tt0190641,Pokémon: The First Movie - Mewtwo Strikes Back,1998,158
-5523,mewtwo,1224,male,49,tt0190641,Pokémon: The First Movie - Mewtwo Strikes Back,1998,158
-5523,misty,149,female,20,tt0190641,Pokémon: The First Movie - Mewtwo Strikes Back,1998,158
-5523,umio,101,male,32,tt0190641,Pokémon: The First Movie - Mewtwo Strikes Back,1998,158
+5523,ash ketchum,728,female,33,tt0190641,PokÃ©mon: The First Movie - Mewtwo Strikes Back,1998,158
+5523,brock,373,male,31,tt0190641,PokÃ©mon: The First Movie - Mewtwo Strikes Back,1998,158
+5523,female scientis,110,female,24,tt0190641,PokÃ©mon: The First Movie - Mewtwo Strikes Back,1998,158
+5523,lady,194,female,NA,tt0190641,PokÃ©mon: The First Movie - Mewtwo Strikes Back,1998,158
+5523,meowth,251,female,38,tt0190641,PokÃ©mon: The First Movie - Mewtwo Strikes Back,1998,158
+5523,mewtwo,1224,male,49,tt0190641,PokÃ©mon: The First Movie - Mewtwo Strikes Back,1998,158
+5523,misty,149,female,20,tt0190641,PokÃ©mon: The First Movie - Mewtwo Strikes Back,1998,158
+5523,umio,101,male,32,tt0190641,PokÃ©mon: The First Movie - Mewtwo Strikes Back,1998,158
 5525,bria,568,female,NA,tt0053285,Sleeping Beauty,1959,880
 5525,fauna,553,female,53,tt0053285,Sleeping Beauty,1959,880
 5525,flora,1079,female,69,tt0053285,Sleeping Beauty,1959,880
@@ -16338,20 +16338,20 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 5534,girl sings,167,female,NA,tt0061852,The Jungle Book,1967,1029
 5534,king louie of t,231,male,57,tt0061852,The Jungle Book,1967,1029
 5534,shere khan the,329,male,61,tt0061852,The Jungle Book,1967,1029
-5803,AmÃ©lie Poulain,1908,female,25,tt0211915,Amélie,2001,51
-5803,collignon,412,male,NA,tt0211915,Amélie,2001,51
-5803,dominique breto,147,male,58,tt0211915,Amélie,2001,51
-5803,eva,343,female,35,tt0211915,Amélie,2001,51
-5803,georgette,376,female,39,tt0211915,Amélie,2001,51
-5803,gina,350,female,NA,tt0211915,Amélie,2001,51
-5803,hipolito,263,male,44,tt0211915,Amélie,2001,51
-5803,husband,233,male,NA,tt0211915,Amélie,2001,51
-5803,joseph,360,male,46,tt0211915,Amélie,2001,51
-5803,lucien,337,male,26,tt0211915,Amélie,2001,51
-5803,madame suzanne,329,female,72,tt0211915,Amélie,2001,51
-5803,nino quincampoi,373,male,34,tt0211915,Amélie,2001,51
-5803,raymond dufayel,968,male,NA,tt0211915,Amélie,2001,51
-5803,the concierge,581,female,NA,tt0211915,Amélie,2001,51
+5803,AmÃ©lie Poulain,1908,female,25,tt0211915,AmÃ©lie,2001,51
+5803,collignon,412,male,NA,tt0211915,AmÃ©lie,2001,51
+5803,dominique breto,147,male,58,tt0211915,AmÃ©lie,2001,51
+5803,eva,343,female,35,tt0211915,AmÃ©lie,2001,51
+5803,georgette,376,female,39,tt0211915,AmÃ©lie,2001,51
+5803,gina,350,female,NA,tt0211915,AmÃ©lie,2001,51
+5803,hipolito,263,male,44,tt0211915,AmÃ©lie,2001,51
+5803,husband,233,male,NA,tt0211915,AmÃ©lie,2001,51
+5803,joseph,360,male,46,tt0211915,AmÃ©lie,2001,51
+5803,lucien,337,male,26,tt0211915,AmÃ©lie,2001,51
+5803,madame suzanne,329,female,72,tt0211915,AmÃ©lie,2001,51
+5803,nino quincampoi,373,male,34,tt0211915,AmÃ©lie,2001,51
+5803,raymond dufayel,968,male,NA,tt0211915,AmÃ©lie,2001,51
+5803,the concierge,581,female,NA,tt0211915,AmÃ©lie,2001,51
 5805,cassandra,111,female,44,tt0120586,American History X,1998,12
 5805,chris,151,male,24,tt0120586,American History X,1998,12
 5805,danny vinyard,1362,male,21,tt0120586,American History X,1998,12
@@ -21405,12 +21405,12 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 8612,rocco,173,male,63,tt2404311,The Family,2013,39
 8612,wahlberg,121,male,NA,tt2404311,The Family,2013,39
 8612,warren blake,1278,male,18,tt2404311,The Family,2013,39
-8613,alison,461,female,22,tt0814343,Séance,2006,NA
-8613,diego,1390,male,23,tt0814343,Séance,2006,NA
-8613,grant,1167,male,24,tt0814343,Séance,2006,NA
-8613,lauren,2528,female,21,tt0814343,Séance,2006,NA
-8613,melina,1054,female,NA,tt0814343,Séance,2006,NA
-8613,syd,271,male,NA,tt0814343,Séance,2006,NA
+8613,alison,461,female,22,tt0814343,SÃ©ance,2006,NA
+8613,diego,1390,male,23,tt0814343,SÃ©ance,2006,NA
+8613,grant,1167,male,24,tt0814343,SÃ©ance,2006,NA
+8613,lauren,2528,female,21,tt0814343,SÃ©ance,2006,NA
+8613,melina,1054,female,NA,tt0814343,SÃ©ance,2006,NA
+8613,syd,271,male,NA,tt0814343,SÃ©ance,2006,NA
 8614,anna,1457,female,25,tt1663655,Martyrs,2015,NA
 8614,eleanor,787,female,58,tt1663655,Martyrs,2015,NA
 8614,lucie,811,female,30,tt1663655,Martyrs,2015,NA

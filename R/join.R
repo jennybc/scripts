@@ -12,7 +12,8 @@ characters <- characters %>%
                          .default = NA_character_)) # deal w/ "?"s
 ## table(characters$gender)
 
-films <- read_csv(P("data", "meta_data7.csv"))
+films <- read_csv(P("data", "meta_data7.csv"),
+                  locale = locale(encoding = 'ISO-8859-1'))
 
 setequal(characters$script_id, films$script_id)
 ## WOW
