@@ -21,4 +21,4 @@ write.table(df, "characters_with_film.csv", sep = ",", row.names = FALSE)
 library(ggplot2)
 ggplot(subset(df, !is.na(gender)), aes(x = age, colour = gender)) +
   geom_density()
-ggsave("densityplot-male-female.png", width = 4, height =3)
+ggsave("densityplot-male-female.png", width = 4, height = 3)

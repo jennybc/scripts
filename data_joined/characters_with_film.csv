@@ -800,13 +800,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 466,johnny friendly,834,male,43,tt0047296,On the Waterfront,1954,185
 466,nolan,432,male,NA,tt0047296,On the Waterfront,1954,185
 466,terry malloy,2766,male,30,tt0047296,On the Waterfront,1954,185
-471,chase matthews,349,male,30,tt0105128,Pet Sematary II,1992,35
-471,drew gilbert,244,male,14,tt0105128,Pet Sematary II,1992,35
-471,gus gilbert,142,male,33,tt0105128,Pet Sematary II,1992,35
-471,jeff matthews,269,male,15,tt0105128,Pet Sematary II,1992,35
-479,dillon,489,male,39,tt0093773,Predator,1987,132
-479,dutch,354,male,40,tt0093773,Predator,1987,132
-479,mac,187,male,44,tt0093773,Predator,1987,132
 481,buttercup,529,female,NA,tt0093779,The Princess Bride,1987,68
 481,fezzik,355,male,41,tt0093779,The Princess Bride,1987,68
 481,inigo montoya,920,male,35,tt0093779,The Princess Bride,1987,68
@@ -897,10 +890,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 533,officer cal tho,146,male,45,tt0120202,State and Main,2000,11
 533,sherry bailey,146,female,51,tt0120202,State and Main,2000,11
 533,walt price,2127,male,50,tt0120202,State and Main,2000,11
-534,anna harrison,891,female,14,tt0120686,Stepmom,1998,168
-534,ben harrison,409,male,8,tt0120686,Stepmom,1998,168
-534,jackie harrison,3037,female,52,tt0120686,Stepmom,1998,168
-534,luke harrison,893,male,48,tt0120686,Stepmom,1998,168
 536,gerald richter,413,male,49,tt0111300,Stranglehold,1994,NA
 536,helen filmore,256,female,NA,tt0111300,Stranglehold,1994,NA
 536,myers,211,male,40,tt0111300,Stranglehold,1994,NA
@@ -1329,6 +1318,16 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 697,koj,129,male,37,tt0118647,The Assignment,1997,1
 697,lt. cmdr. annib,2987,male,38,tt0118647,The Assignment,1997,1
 697,maura ramirez,314,female,NA,tt0118647,The Assignment,1997,1
+698,alotta fagina,170,female,33,tt0118655,Austin Powers: International Man of Mystery,1997,102
+698,austin powers,2298,male,34,tt0118655,Austin Powers: International Man of Mystery,1997,102
+698,basil expositio,773,male,55,tt0118655,Austin Powers: International Man of Mystery,1997,102
+698,frau farbissina,223,female,44,tt0118655,Austin Powers: International Man of Mystery,1997,102
+698,mrs. kensington,211,female,41,tt0118655,Austin Powers: International Man of Mystery,1997,102
+698,mustafa,168,male,30,tt0118655,Austin Powers: International Man of Mystery,1997,102
+698,number two,202,male,67,tt0118655,Austin Powers: International Man of Mystery,1997,102
+698,scott evil,338,male,23,tt0118655,Austin Powers: International Man of Mystery,1997,102
+698,therapist,118,female,41,tt0118655,Austin Powers: International Man of Mystery,1997,102
+698,vanessa kensing,992,female,32,tt0118655,Austin Powers: International Man of Mystery,1997,102
 699,austin powers,2353,male,36,tt0145660,Austin Powers: The Spy Who Shagged Me,1999,351
 699,basil expositio,432,male,57,tt0145660,Austin Powers: The Spy Who Shagged Me,1999,351
 699,felicity shagwe,940,female,29,tt0145660,Austin Powers: The Spy Who Shagged Me,1999,351
@@ -1735,6 +1734,7 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 818,satan,262,male,52,tt0360486,Constantine,2005,102
 821,chairman of joi,199,male,60,tt0118884,Contact,1997,191
 821,david drumlin,1402,male,64,tt0118884,Contact,1997,191
+821,ellie,4870,female,35,tt0118884,Contact,1997,191
 821,hadden suit,752,male,NA,tt0118884,Contact,1997,191
 821,jean-claude,244,male,NA,tt0118884,Contact,1997,191
 821,kent,285,male,41,tt0118884,Contact,1997,191
@@ -1745,7 +1745,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 821,peter,804,male,NA,tt0118884,Contact,1997,191
 821,project officia,117,male,61,tt0118884,Contact,1997,191
 821,ted arroway,568,male,44,tt0118884,Contact,1997,191
-821,young ellie,4870,female,13,tt0118884,Contact,1997,191
 822,anthony fait,2273,male,33,tt0306685,Cradle 2 the Grave,2003,49
 822,archie,983,male,44,tt0306685,Cradle 2 the Grave,2003,49
 822,chambers's club,510,male,40,tt0306685,Cradle 2 the Grave,2003,49
@@ -1765,13 +1764,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 832,judah earl,641,male,34,tt0115986,The Crow: City of Angels,1996,35
 832,sarah,617,female,21,tt0115986,The Crow: City of Angels,1996,35
 832,sibyl,206,female,NA,tt0115986,The Crow: City of Angels,1996,35
-842,barber,117,male,NA,tt0118929,Dark City,1998,26
-842,dr. daniel p. s,720,male,32,tt0118929,Dark City,1998,26
-842,inspector frank,1016,male,48,tt0118929,Dark City,1998,26
-842,john murdoch,745,male,31,tt0118929,Dark City,1998,26
-842,mister black,200,male,NA,tt0118929,Dark City,1998,26
-842,mystery man,101,male,NA,tt0118929,Dark City,1998,26
-842,stromboli,298,male,55,tt0118929,Dark City,1998,26
 844,chico,184,male,NA,tt0088993,Day of the Dead,1985,NA
 844,gasparilla,652,male,NA,tt0088993,Day of the Dead,1985,NA
 844,john,1416,male,38,tt0088993,Day of the Dead,1985,NA
@@ -2296,11 +2288,32 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 988,officer palumbo,258,male,32,tt0366551,Harold & Kumar Go to White Castle,2004,25
 988,rosenberg,142,male,24,tt0366551,Harold & Kumar Go to White Castle,2004,25
 988,tarik,327,male,38,tt0366551,Harold & Kumar Go to White Castle,2004,25
+989,aragog,177,male,67,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,argus filch,155,male,60,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,colin creevey,107,male,13,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,dobby the house,550,male,35,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,draco malfoy,710,male,15,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,ginny weasley,124,female,11,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,harry potter,3724,male,13,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,hermione grange,1647,female,12,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,lucius malfoy,765,male,39,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,madam pomfrey,133,female,60,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,moaning myrtle,252,female,37,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,mr. borgin,108,male,47,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,mrs weasley,284,female,52,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,oliver wood,181,male,19,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,professor albus,1108,male,72,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,professor gilde,1507,male,42,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,ron weasley,2649,male,14,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,rubeus hagrid,722,male,52,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,severus snape,277,male,56,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,Tom Marvolo Rid,1299,male,24,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
+989,uncle vernon du,406,male,55,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
 991,argus filch,141,male,59,tt0241527,Harry Potter and the Sorcerer's Stone,2001,488
 991,aunt petunia du,182,female,43,tt0241527,Harry Potter and the Sorcerer's Stone,2001,488
-991,baby harry pott,1566,male,NA,tt0241527,Harry Potter and the Sorcerer's Stone,2001,488
 991,draco malfoy,194,male,14,tt0241527,Harry Potter and the Sorcerer's Stone,2001,488
 991,firenze,115,male,28,tt0241527,Harry Potter and the Sorcerer's Stone,2001,488
+991,Harry,1768,male,12,tt0241527,Harry Potter and the Sorcerer's Stone,2001,488
 991,hermione grange,898,female,11,tt0241527,Harry Potter and the Sorcerer's Stone,2001,488
 991,oliver wood,171,male,18,tt0241527,Harry Potter and the Sorcerer's Stone,2001,488
 991,percy weasley,156,male,18,tt0241527,Harry Potter and the Sorcerer's Stone,2001,488
@@ -2310,6 +2323,7 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 991,ron weasley,918,male,13,tt0241527,Harry Potter and the Sorcerer's Stone,2001,488
 991,rubeus hagrid,1443,male,51,tt0241527,Harry Potter and the Sorcerer's Stone,2001,488
 991,severus snape,250,male,55,tt0241527,Harry Potter and the Sorcerer's Stone,2001,488
+991,voldemort,349,male,NA,tt0241527,Harry Potter and the Sorcerer's Stone,2001,488
 992,albus dumbledor,764,male,64,tt0304141,Harry Potter and the Prisoner of Azkaban,2004,348
 992,aunt marge,347,female,56,tt0304141,Harry Potter and the Prisoner of Azkaban,2004,348
 992,aunt petunia,111,female,46,tt0304141,Harry Potter and the Prisoner of Azkaban,2004,348
@@ -2456,6 +2470,15 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 1028,rick dicker,168,male,70,tt0317705,The Incredibles,2004,365
 1028,syndrome,684,male,34,tt0317705,The Incredibles,2004,365
 1028,violet parr,422,female,35,tt0317705,The Incredibles,2004,365
+1034,belzig,114,male,NA,tt0082971,Raiders of the Lost Ark,1981,9
+1034,col. musgrove,135,male,59,tt0082971,Raiders of the Lost Ark,1981,9
+1034,dr. marcus brod,130,male,59,tt0082971,Raiders of the Lost Ark,1981,9
+1034,dr. rené belloq,630,male,38,tt0082971,Raiders of the Lost Ark,1981,9
+1034,indy,1769,male,39,tt0082971,Raiders of the Lost Ark,1981,9
+1034,major eaton,130,male,33,tt0082971,Raiders of the Lost Ark,1981,9
+1034,marion ravenwoo,972,female,30,tt0082971,Raiders of the Lost Ark,1981,9
+1034,sallah,239,male,37,tt0082971,Raiders of the Lost Ark,1981,9
+1034,shliemann,274,male,NA,tt0082971,Raiders of the Lost Ark,1981,9
 1035,bridget von ham,1239,female,33,tt0361748,Inglourious Basterds,2009,140
 1035,col. hans landa,2571,male,53,tt0361748,Inglourious Basterds,2009,140
 1035,francesca mondi,101,female,43,tt0361748,Inglourious Basterds,2009,140
@@ -2694,7 +2717,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 1114,denethor,254,male,55,tt0167260,The Lord of the Rings: The Return of the King,2003,543
 1114,elrond,132,male,43,tt0167260,The Lord of the Rings: The Return of the King,2003,543
 1114,eowyn,145,female,36,tt0167260,The Lord of the Rings: The Return of the King,2003,543
-1114,everard proudfo,939,male,NA,tt0167260,The Lord of the Rings: The Return of the King,2003,543
 1114,frodo,378,male,22,tt0167260,The Lord of the Rings: The Return of the King,2003,543
 1114,gandalf,653,male,64,tt0167260,The Lord of the Rings: The Return of the King,2003,543
 1114,gimli,212,male,59,tt0167260,The Lord of the Rings: The Return of the King,2003,543
@@ -3067,6 +3089,15 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 1222,robert 'butch',4853,male,38,tt0107808,A Perfect World,1993,65
 1222,sally gerber,1200,female,26,tt0107808,A Perfect World,1993,65
 1222,tom adler,1023,male,49,tt0107808,A Perfect World,1993,65
+1223,amanda gilbert,197,female,31,tt0105128,Pet Sematary II,1992,35
+1223,chase matthews,856,male,30,tt0105128,Pet Sematary II,1992,35
+1223,clyde parker,611,male,18,tt0105128,Pet Sematary II,1992,35
+1223,drew gilbert,553,male,14,tt0105128,Pet Sematary II,1992,35
+1223,geoff,593,male,NA,tt0105128,Pet Sematary II,1992,35
+1223,gus gilbert,683,male,33,tt0105128,Pet Sematary II,1992,35
+1223,marjorie hargro,302,female,24,tt0105128,Pet Sematary II,1992,35
+1223,quentin yolande,134,male,NA,tt0105128,Pet Sematary II,1992,35
+1223,renee hallow,274,female,34,tt0105128,Pet Sematary II,1992,35
 1225,barney,255,male,46,tt0063426,Petulia,1968,NA
 1225,david danner,804,male,34,tt0063426,Petulia,1968,NA
 1225,dr. archie boll,230,male,41,tt0063426,Petulia,1968,NA
@@ -3098,6 +3129,14 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 1241,thomas,173,male,NA,tt0105159,The Power of One,1992,5
 1241,von zyl,400,male,NA,tt0105159,The Power of One,1992,5
 1241,young man,742,male,NA,tt0105159,The Power of One,1992,5
+1244,anna,132,female,26,tt0093773,Predator,1987,132
+1244,billy,155,male,46,tt0093773,Predator,1987,132
+1244,blain,109,male,36,tt0093773,Predator,1987,132
+1244,dillon,932,male,39,tt0093773,Predator,1987,132
+1244,dutch,820,male,40,tt0093773,Predator,1987,132
+1244,gen. phillips,184,male,46,tt0093773,Predator,1987,132
+1244,mac,417,male,44,tt0093773,Predator,1987,132
+1244,ramirez,258,male,NA,tt0093773,Predator,1987,132
 1245,david morse,259,male,31,tt0100405,Pretty Woman,1990,366
 1245,edward lewis,2519,male,41,tt0100405,Pretty Woman,1990,366
 1245,kit de luca,437,female,28,tt0100405,Pretty Woman,1990,366
@@ -3607,6 +3646,22 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 1360,taun we,139,female,40,tt0121765,Star Wars: Episode II - Attack of the Clones,2002,465
 1360,watto,140,male,49,tt0121765,Star Wars: Episode II - Attack of the Clones,2002,465
 1360,yoda,355,male,58,tt0121765,Star Wars: Episode II - Attack of the Clones,2002,465
+1361,academy preside,225,male,NA,tt0796366,Star Trek,2009,299
+1361,amanda,106,female,38,tt0796366,Star Trek,2009,299
+1361,ayel,171,male,39,tt0796366,Star Trek,2009,299
+1361,captain kirk,2014,male,78,tt0796366,Star Trek,2009,299
+1361,captain robau,197,male,46,tt0796366,Star Trek,2009,299
+1361,chekov,308,male,73,tt0796366,Star Trek,2009,299
+1361,dr. mccoy,594,male,89,tt0796366,Star Trek,2009,299
+1361,george kirk,205,male,26,tt0796366,Star Trek,2009,299
+1361,nero,526,male,41,tt0796366,Star Trek,2009,299
+1361,pike,807,male,53,tt0796366,Star Trek,2009,299
+1361,sarek,267,male,62,tt0796366,Star Trek,2009,299
+1361,scotty,460,male,89,tt0796366,Star Trek,2009,299
+1361,spock,561,male,78,tt0796366,Star Trek,2009,299
+1361,sulu,247,male,72,tt0796366,Star Trek,2009,299
+1361,uhura,471,female,77,tt0796366,Star Trek,2009,299
+1361,winona,105,female,30,tt0796366,Star Trek,2009,299
 1362,ben obi-wan ken,995,male,63,tt0076759,Star Wars: Episode IV - A New Hope,1977,1798
 1362,c-3po,1506,male,31,tt0076759,Star Wars: Episode IV - A New Hope,1977,1798
 1362,cmdr. praji (im,117,male,42,tt0076759,Star Wars: Episode IV - A New Hope,1977,1798
@@ -3942,19 +3997,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 1488,logan,2260,male,41,tt0458525,X-Men Origins: Wolverine,2009,208
 1488,stryker,1741,male,47,tt0458525,X-Men Origins: Wolverine,2009,208
 1488,victor creed,840,male,42,tt0458525,X-Men Origins: Wolverine,2009,208
-1493,allison,1117,female,28,tt1068680,Yes Man,2008,118
-1493,bank customer,153,male,38,tt1068680,Yes Man,2008,118
-1493,bigfoot waitres,105,female,20,tt1068680,Yes Man,2008,118
-1493,carl,197,male,46,tt1068680,Yes Man,2008,118
-1493,chris parker,679,male,NA,tt1068680,Yes Man,2008,118
-1493,jason,178,male,NA,tt1068680,Yes Man,2008,118
-1493,kath,243,female,NA,tt1068680,Yes Man,2008,118
-1493,lucy,477,female,35,tt1068680,Yes Man,2008,118
-1493,norman,469,male,34,tt1068680,Yes Man,2008,118
-1493,peter,658,male,33,tt1068680,Yes Man,2008,118
-1493,rooney,341,male,32,tt1068680,Yes Man,2008,118
-1493,sanji,494,male,NA,tt1068680,Yes Man,2008,118
-1493,tony,104,male,NA,tt1068680,Yes Man,2008,118
 1502,ben chapman,590,male,42,tt0453562,42,2013,101
 1502,birmingham catc,137,male,NA,tt0453562,42,2013,101
 1502,bobby bragan,298,male,37,tt0453562,42,2013,101
@@ -4667,13 +4709,22 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 1691,reza borhani,129,male,NA,tt1024648,Argo,2012,148
 1691,robert pender,351,male,55,tt1024648,Argo,2012,148
 1691,tony mendez,2495,male,40,tt1024648,Argo,2012,148
-1695,a.j. frost,370,male,26,tt0120591,Armageddon,1998,374
-1695,chick,105,male,44,tt0120591,Armageddon,1998,374
-1695,colonel willie,283,male,42,tt0120591,Armageddon,1998,374
-1695,Dan Truman,585,male,43,tt0120591,Armageddon,1998,374
-1695,harry stamper,768,male,43,tt0120591,Armageddon,1998,374
-1695,lev andropov,128,male,45,tt0120591,Armageddon,1998,374
-1695,ronald quincy,190,male,35,tt0120591,Armageddon,1998,374
+1694,a.j. frost,770,male,26,tt0120591,Armageddon,1998,374
+1694,bear,154,male,41,tt0120591,Armageddon,1998,374
+1694,chick,501,male,44,tt0120591,Armageddon,1998,374
+1694,co-pilot jennif,119,female,33,tt0120591,Armageddon,1998,374
+1694,colonel willie,477,male,42,tt0120591,Armageddon,1998,374
+1694,Dan Truman,1360,male,43,tt0120591,Armageddon,1998,374
+1694,flight director,189,male,42,tt0120591,Armageddon,1998,374
+1694,grace stamper,260,female,21,tt0120591,Armageddon,1998,374
+1694,harry stamper,2301,male,43,tt0120591,Armageddon,1998,374
+1694,jimbo,255,male,NA,tt0120591,Armageddon,1998,374
+1694,lev andropov,188,male,45,tt0120591,Armageddon,1998,374
+1694,max,172,male,36,tt0120591,Armageddon,1998,374
+1694,ronald quincy,386,male,35,tt0120591,Armageddon,1998,374
+1694,skip,131,male,NA,tt0120591,Armageddon,1998,374
+1694,temple,302,male,NA,tt0120591,Armageddon,1998,374
+1694,theo,147,male,NA,tt0120591,Armageddon,1998,374
 1696,ash,4466,male,34,tt0106308,Army of Darkness,1992,24
 1696,lord arthur,792,male,34,tt0106308,Army of Darkness,1992,24
 1696,sheila,440,female,27,tt0106308,Army of Darkness,1992,24
@@ -5316,7 +5367,9 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 1892,detective duffy,268,male,NA,tt0144117,The Boondock Saints,1999,NA
 1892,detective green,321,male,NA,tt0144117,The Boondock Saints,1999,NA
 1892,doc,274,male,75,tt0144117,The Boondock Saints,1999,NA
+1892,father,114,female,NA,tt0144117,The Boondock Saints,1999,NA
 1892,ivan checkov,160,male,NA,tt0144117,The Boondock Saints,1999,NA
+1892,mom,446,female,NA,tt0144117,The Boondock Saints,1999,NA
 1892,monsignor,167,male,NA,tt0144117,The Boondock Saints,1999,NA
 1892,murphy macmanus,1280,male,30,tt0144117,The Boondock Saints,1999,NA
 1892,paul smecker,3606,male,44,tt0144117,The Boondock Saints,1999,NA
@@ -5455,25 +5508,24 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 1934,penelope,4176,female,38,tt0844286,The Brothers Bloom,2008,4
 1934,rose,232,female,27,tt0844286,The Brothers Bloom,2008,4
 1934,stephen,5468,male,41,tt0844286,The Brothers Bloom,2008,4
-1938,amilyn,372,male,40,tt0103893,Buffy the Vampire Slayer,1992,34
-1938,andy,540,male,22,tt0103893,Buffy the Vampire Slayer,1992,34
-1938,benny,732,male,21,tt0103893,Buffy the Vampire Slayer,1992,34
-1938,biker,118,male,NA,tt0103893,Buffy the Vampire Slayer,1992,34
-1938,buffy's mom,250,female,45,tt0103893,Buffy the Vampire Slayer,1992,34
-1938,cassandra,268,female,22,tt0103893,Buffy the Vampire Slayer,1992,34
-1938,coach,364,male,23,tt0103893,Buffy the Vampire Slayer,1992,34
-1938,gary murray,836,male,41,tt0103893,Buffy the Vampire Slayer,1992,34
-1938,grueller,350,male,28,tt0103893,Buffy the Vampire Slayer,1992,34
-1938,herself - repor,182,female,69,tt0103893,Buffy the Vampire Slayer,1992,34
-1938,jeffrey,766,male,24,tt0103893,Buffy the Vampire Slayer,1992,34
-1938,jennifer,640,female,NA,tt0103893,Buffy the Vampire Slayer,1992,34
-1938,kimberly,1140,female,18,tt0103893,Buffy the Vampire Slayer,1992,34
-1938,lothos,1258,male,48,tt0103893,Buffy the Vampire Slayer,1992,34
-1938,merrick,3000,male,57,tt0103893,Buffy the Vampire Slayer,1992,34
-1938,nicole 'nicki',930,female,31,tt0103893,Buffy the Vampire Slayer,1992,34
-1938,pike,2532,male,26,tt0103893,Buffy the Vampire Slayer,1992,34
-1938,robert berman,366,male,NA,tt0103893,Buffy the Vampire Slayer,1992,34
-1938,zeph,366,male,23,tt0103893,Buffy the Vampire Slayer,1992,34
+1939,amilyn,204,male,40,tt0103893,Buffy the Vampire Slayer,1992,34
+1939,andy,296,male,22,tt0103893,Buffy the Vampire Slayer,1992,34
+1939,benny,400,male,21,tt0103893,Buffy the Vampire Slayer,1992,34
+1939,buffy,3401,female,23,tt0103893,Buffy the Vampire Slayer,1992,34
+1939,buffy's mom,137,female,45,tt0103893,Buffy the Vampire Slayer,1992,34
+1939,cassandra,147,female,22,tt0103893,Buffy the Vampire Slayer,1992,34
+1939,coach,190,male,23,tt0103893,Buffy the Vampire Slayer,1992,34
+1939,gary murray,430,male,41,tt0103893,Buffy the Vampire Slayer,1992,34
+1939,grueller,192,male,28,tt0103893,Buffy the Vampire Slayer,1992,34
+1939,jeffrey,427,male,24,tt0103893,Buffy the Vampire Slayer,1992,34
+1939,jennifer,353,female,NA,tt0103893,Buffy the Vampire Slayer,1992,34
+1939,kimberly,627,female,18,tt0103893,Buffy the Vampire Slayer,1992,34
+1939,lothos,670,male,48,tt0103893,Buffy the Vampire Slayer,1992,34
+1939,merrick,1614,male,57,tt0103893,Buffy the Vampire Slayer,1992,34
+1939,nicole 'nicki',516,female,31,tt0103893,Buffy the Vampire Slayer,1992,34
+1939,pike,1379,male,26,tt0103893,Buffy the Vampire Slayer,1992,34
+1939,robert berman,190,male,NA,tt0103893,Buffy the Vampire Slayer,1992,34
+1939,zeph,192,male,23,tt0103893,Buffy the Vampire Slayer,1992,34
 1940,annie savoy,5778,female,42,tt0094812,Bull Durham,1988,107
 1940,bobby,202,male,26,tt0094812,Bull Durham,1988,107
 1940,crash davis,4610,male,33,tt0094812,Bull Durham,1988,107
@@ -6120,6 +6172,20 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 2100,timmons,370,male,36,tt0099348,Dances with Wolves,1990,378
 2100,Wind In His Hai,1616,male,31,tt0099348,Dances with Wolves,1990,378
 2100,worm,112,male,NA,tt0099348,Dances with Wolves,1990,378
+2101,automat cop,208,male,NA,tt0118929,Dark City,1998,26
+2101,barber,336,male,NA,tt0118929,Dark City,1998,26
+2101,dr. daniel p. s,1864,male,32,tt0118929,Dark City,1998,26
+2101,inspector frank,2618,male,48,tt0118929,Dark City,1998,26
+2101,john murdoch,2300,male,31,tt0118929,Dark City,1998,26
+2101,karl harris,248,male,69,tt0118929,Dark City,1998,26
+2101,man 1,128,male,NA,tt0118929,Dark City,1998,26
+2101,miss crenshaw,252,female,NA,tt0118929,Dark City,1998,26
+2101,mister black,492,male,NA,tt0118929,Dark City,1998,26
+2101,mystery man,258,male,NA,tt0118929,Dark City,1998,26
+2101,mystery man 2,112,male,NA,tt0118929,Dark City,1998,26
+2101,priest,240,male,NA,tt0118929,Dark City,1998,26
+2101,stromboli,742,male,55,tt0118929,Dark City,1998,26
+2101,wife,178,female,NA,tt0118929,Dark City,1998,26
 2106,alfred,1888,male,75,tt0468569,The Dark Knight,2008,645
 2106,assistant da,134,male,NA,tt0468569,The Dark Knight,2008,645
 2106,bank manager,210,male,52,tt0468569,The Dark Knight,2008,645
@@ -6404,24 +6470,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 2160,dick dodge,340,male,56,tt0104114,The Distinguished Gentleman,1992,97
 2160,miss loretta,110,female,36,tt0104114,The Distinguished Gentleman,1992,97
 2160,tommy boggs,1044,male,NA,tt0104114,The Distinguished Gentleman,1992,97
-2164,ace speck,246,male,59,tt1853728,Django Unchained,2012,178
-2164,betina,299,female,NA,tt1853728,Django Unchained,2012,178
-2164,broomhilda von,716,female,35,tt1853728,Django Unchained,2012,178
-2164,calvin candie,6180,male,38,tt1853728,Django Unchained,2012,178
-2164,dicky speck,233,male,59,tt1853728,Django Unchained,2012,178
-2164,django,8888,male,45,tt1853728,Django Unchained,2012,178
-2164,dr. king schult,143,male,56,tt1853728,Django Unchained,2012,178
-2164,grace bennett,172,female,NA,tt1853728,Django Unchained,2012,178
-2164,lara lee candie,316,female,48,tt1853728,Django Unchained,2012,178
-2164,leonide moguy,358,male,57,tt1853728,Django Unchained,2012,178
-2164,robert (bag hea,111,male,49,tt1853728,Django Unchained,2012,178
-2164,rodney,101,male,NA,tt1853728,Django Unchained,2012,178
-2164,roy,624,male,NA,tt1853728,Django Unchained,2012,178
-2164,sheriff bill sh,103,male,69,tt1853728,Django Unchained,2012,178
-2164,sheriff gus (sn,121,male,57,tt1853728,Django Unchained,2012,178
-2164,stephen,2598,male,64,tt1853728,Django Unchained,2012,178
-2164,tatum,469,male,40,tt1853728,Django Unchained,2012,178
-2164,when,138,male,54,tt1853728,Django Unchained,2012,178
 2172,azrael,2278,male,29,tt0120655,Dogma,1999,52
 2172,bartleby,4060,male,27,tt0120655,Dogma,1999,52
 2172,bethany,6284,female,41,tt0120655,Dogma,1999,52
@@ -6626,10 +6674,17 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 2240,carrie,418,female,39,tt0338013,Eternal Sunshine of the Spotless Mind,2004,47
 2240,clementine kruc,8354,female,29,tt0338013,Eternal Sunshine of the Spotless Mind,2004,47
 2240,dr. mierzwiak,1708,male,56,tt0338013,Eternal Sunshine of the Spotless Mind,2004,47
+2240,father,102,male,NA,tt0338013,Eternal Sunshine of the Spotless Mind,2004,47
 2240,joel barish,6482,male,42,tt0338013,Eternal Sunshine of the Spotless Mind,2004,47
 2240,mary,2316,female,22,tt0338013,Eternal Sunshine of the Spotless Mind,2004,47
+2240,naomi,496,female,NA,tt0338013,Eternal Sunshine of the Spotless Mind,2004,47
+2240,old man,162,male,NA,tt0338013,Eternal Sunshine of the Spotless Mind,2004,47
+2240,old woman,230,female,NA,tt0338013,Eternal Sunshine of the Spotless Mind,2004,47
 2240,patrick,1070,male,23,tt0338013,Eternal Sunshine of the Spotless Mind,2004,47
+2240,sad woman,118,female,NA,tt0338013,Eternal Sunshine of the Spotless Mind,2004,47
+2240,second old woma,248,female,NA,tt0338013,Eternal Sunshine of the Spotless Mind,2004,47
 2240,stan,1428,male,37,tt0338013,Eternal Sunshine of the Spotless Mind,2004,47
+2240,young woman,132,female,NA,tt0338013,Eternal Sunshine of the Spotless Mind,2004,47
 2243,big red,140,female,NA,tt0106834,Even Cowgirls Get the Blues,1993,3
 2243,bonanza jellybe,3564,female,21,tt0106834,Even Cowgirls Get the Blues,1993,3
 2243,brain surgeon,254,male,NA,tt0106834,Even Cowgirls Get the Blues,1993,3
@@ -7465,7 +7520,7 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 2469,steve,444,male,NA,tt1119646,The Hangover,2009,321
 2469,stu,5716,male,35,tt1119646,The Hangover,2009,321
 2469,tracy,524,female,28,tt1119646,The Hangover,2009,321
-2469,vick,10660,female,NA,tt1119646,The Hangover,2009,321
+2469,vick,10660,male,NA,tt1119646,The Hangover,2009,321
 2470,burton,207,male,35,tt0993842,Hanna,2011,44
 2470,erik heller,2112,male,43,tt0993842,Hanna,2011,44
 2470,false marissa,231,female,30,tt0993842,Hanna,2011,44
@@ -7500,34 +7555,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 2483,mrs. astrakhan,222,female,65,tt0366548,Happy Feet,2006,262
 2483,mumble,2677,male,25,tt0366548,Happy Feet,2006,262
 2483,raul,250,male,33,tt0366548,Happy Feet,2006,262
-2489,aragog,412,male,67,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,argus filch,334,male,60,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,colin creevey,254,male,13,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,cornelius fudge,244,male,77,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,dobby the house,1260,male,35,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,draco malfoy,1668,male,15,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,dudley dursley,226,male,13,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,ernie macmillan,252,male,NA,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,george weasley,112,male,16,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,ginny weasley,274,female,11,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,girl in booksto,2992,female,6,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,harry potter,8426,male,13,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,hermione grange,3826,female,12,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,lucius malfoy,1798,male,39,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,moaning myrtle,578,female,37,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,mr. borgin,252,male,47,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,mrs weasley,604,female,52,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,neville longbot,178,male,13,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,oliver wood,310,male,19,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,percy weasley,180,male,19,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,professor albus,122,male,72,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,professor gilde,3168,male,42,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,ron weasley,5868,male,14,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,rubeus hagrid,1690,male,52,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,severus snape,660,male,56,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,the sorting hat,108,male,78,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,tom marvolo rid,136,male,24,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
-2489,uncle vernon du,952,male,55,tt0295297,Harry Potter and the Chamber of Secrets,2002,392
 2492,albus dumbledor,3626,male,65,tt0330373,Harry Potter and the Goblet of Fire,2005,393
 2492,amos diggory,128,male,54,tt0330373,Harry Potter and the Goblet of Fire,2005,393
 2492,arthur weasley,388,male,46,tt0330373,Harry Potter and the Goblet of Fire,2005,393
@@ -7552,22 +7579,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 2492,severus snape,380,male,59,tt0330373,Harry Potter and the Goblet of Fire,2005,393
 2492,sirius black,558,male,47,tt0330373,Harry Potter and the Goblet of Fire,2005,393
 2492,wormtail (peter,140,male,48,tt0330373,Harry Potter and the Goblet of Fire,2005,393
-2494,bellatrix lestr,380,female,43,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
-2494,cormac mclaggen,204,male,22,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
-2494,ginny weasley,686,female,18,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
-2494,hermione grange,2550,female,19,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
-2494,katie bell,112,female,19,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
-2494,lavender brown,148,female,22,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
-2494,luna lovegood,356,female,18,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
-2494,narcissa malfoy,128,female,41,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
-2494,neville longbot,860,male,20,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
-2494,professor albus,4354,male,69,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
-2494,professor horac,4710,male,60,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
-2494,professor sever,886,male,63,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
-2494,remus lupin,212,male,46,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
-2494,ron weasley,1954,male,21,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
-2494,rubeus hagrid,408,male,59,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
-2494,waitress,126,female,20,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
 2497,dr. david marro,4818,male,47,tt0171363,The Haunting,1999,156
 2497,dr. malcolm keo,392,male,57,tt0171363,The Haunting,1999,156
 2497,jane,394,female,38,tt0171363,The Haunting,1999,156
@@ -8402,16 +8413,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 2699,taxi driver,1136,male,NA,tt0113540,Kids,1995,14
 2699,telly,4010,male,17,tt0113540,Kids,1995,14
 2699,telly's mom,132,female,NA,tt0113540,Kids,1995,14
-2703,bank manager,156,male,NA,tt0110265,Killing Zoe,1993,0
-2703,bellboy,110,male,NA,tt0110265,Killing Zoe,1993,0
-2703,cab driver,460,male,NA,tt0110265,Killing Zoe,1993,0
-2703,claude,756,male,28,tt0110265,Killing Zoe,1993,0
-2703,eric,6332,male,38,tt0110265,Killing Zoe,1993,0
-2703,francois,106,male,NA,tt0110265,Killing Zoe,1993,0
-2703,jean,692,male,38,tt0110265,Killing Zoe,1993,0
-2703,oliver,1520,male,34,tt0110265,Killing Zoe,1993,0
-2703,ricardo,900,male,27,tt0110265,Killing Zoe,1993,0
-2703,zed,2960,male,32,tt0110265,Killing Zoe,1993,0
 2704,ann darrow,1394,female,37,tt0360717,King Kong,2005,295
 2704,bruce baxter,530,male,40,tt0360717,King Kong,2005,295
 2704,captain engleho,1020,male,43,tt0360717,King Kong,2005,295
@@ -10111,9 +10112,9 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 3142,sam winters,6752,male,53,tt0107889,The Program,1993,48
 3142,sharon braver,328,female,NA,tt0107889,The Program,1993,48
 3142,steve lattimer,830,male,24,tt0107889,The Program,1993,48
-3160,alexander pentc,502,male,61,tt0239860,Quantum Project,2000,NA
-3160,paul pentcho,1092,male,27,tt0239860,Quantum Project,2000,NA
-3160,will,142,male,NA,tt0239860,Quantum Project,2000,NA
+3161,alexander pentc,275,male,61,tt0239860,Quantum Project,2000,NA
+3161,mia,286,female,26,tt0239860,Quantum Project,2000,NA
+3161,paul pentcho,614,male,27,tt0239860,Quantum Project,2000,NA
 3162,armand,238,male,25,tt0238546,Queen of the Damned,2002,45
 3162,david talbot,1104,male,43,tt0238546,Queen of the Damned,2002,45
 3162,jesse reeves,4120,female,25,tt0238546,Queen of the Damned,2002,45
@@ -10607,25 +10608,16 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 3314,red dog,172,male,35,tt0073692,Shampoo,1975,NA
 3314,ricci,224,male,NA,tt0073692,Shampoo,1975,NA
 3314,senator east,104,male,58,tt0073692,Shampoo,1975,NA
-3316,1946 d.a.,1272,male,47,tt0111161,The Shawshank Redemption,1994,58
-3316,1946 judge,138,male,NA,tt0111161,The Shawshank Redemption,1994,58
-3316,1954 food-way m,110,male,52,tt0111161,The Shawshank Redemption,1994,58
-3316,1954 food-way w,132,female,NA,tt0111161,The Shawshank Redemption,1994,58
-3316,bogs diamond,286,male,38,tt0111161,The Shawshank Redemption,1994,58
-3316,brooks hatlen,1480,male,73,tt0111161,The Shawshank Redemption,1994,58
-3316,captain hadley,1288,male,35,tt0111161,The Shawshank Redemption,1994,58
-3316,ellis boyd 'red,11574,male,57,tt0111161,The Shawshank Redemption,1994,58
-3316,elmo blatch,146,male,54,tt0111161,The Shawshank Redemption,1994,58
-3316,floyd,268,male,NA,tt0111161,The Shawshank Redemption,1994,58
-3316,guard dekins,102,male,45,tt0111161,The Shawshank Redemption,1994,58
-3316,guard wiley,114,male,35,tt0111161,The Shawshank Redemption,1994,58
-3316,head bull haig,116,male,NA,tt0111161,The Shawshank Redemption,1994,58
-3316,heywood,1236,male,44,tt0111161,The Shawshank Redemption,1994,58
-3316,jigger,146,male,35,tt0111161,The Shawshank Redemption,1994,58
-3316,ned grimes,172,male,48,tt0111161,The Shawshank Redemption,1994,58
-3316,snooze,138,male,52,tt0111161,The Shawshank Redemption,1994,58
-3316,tommy,622,male,27,tt0111161,The Shawshank Redemption,1994,58
-3316,warden norton,2534,male,49,tt0111161,The Shawshank Redemption,1994,58
+3317,1946 d.a.,637,male,47,tt0111161,The Shawshank Redemption,1994,58
+3317,andy dufresne,3127,male,36,tt0111161,The Shawshank Redemption,1994,58
+3317,bogs diamond,143,male,38,tt0111161,The Shawshank Redemption,1994,58
+3317,brooks hatlen,740,male,73,tt0111161,The Shawshank Redemption,1994,58
+3317,captain hadley,644,male,35,tt0111161,The Shawshank Redemption,1994,58
+3317,ellis boyd 'red,5788,male,57,tt0111161,The Shawshank Redemption,1994,58
+3317,floyd,134,male,NA,tt0111161,The Shawshank Redemption,1994,58
+3317,heywood,619,male,44,tt0111161,The Shawshank Redemption,1994,58
+3317,tommy,311,male,27,tt0111161,The Shawshank Redemption,1994,58
+3317,warden norton,1271,male,49,tt0111161,The Shawshank Redemption,1994,58
 3323,chris,1437,male,30,tt1104126,Shifty,2008,NA
 3323,glen,744,male,42,tt1104126,Shifty,2008,NA
 3323,jasmine,608,female,NA,tt1104126,Shifty,2008,NA
@@ -10952,6 +10944,16 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 3437,sio bibble,164,male,60,tt0120915,Star Wars: Episode I - The Phantom Menace,1999,813
 3437,watto,502,male,46,tt0120915,Star Wars: Episode I - The Phantom Menace,1999,813
 3437,yoda,312,male,55,tt0120915,Star Wars: Episode I - The Phantom Menace,1999,813
+3447,Anna Harrison,2692,female,14,tt0120686,Stepmom,1998,168
+3447,ben harrison,1300,male,8,tt0120686,Stepmom,1998,168
+3447,cooper,102,male,NA,tt0120686,Stepmom,1998,168
+3447,duncan samuels,206,male,48,tt0120686,Stepmom,1998,168
+3447,Isabel Kelly,10052,female,31,tt0120686,Stepmom,1998,168
+3447,jackie harrison,11634,female,52,tt0120686,Stepmom,1998,168
+3447,jessica,166,female,NA,tt0120686,Stepmom,1998,168
+3447,luke harrison,3670,male,48,tt0120686,Stepmom,1998,168
+3447,mrs. franklin,310,female,66,tt0120686,Stepmom,1998,168
+3447,senio,160,female,NA,tt0120686,Stepmom,1998,168
 3455,"amy (segment ""f",192,female,26,tt0250081,Storytelling,2001,1
 3455,brady livingsto,454,male,17,tt0250081,Storytelling,2001,1
 3455,catherine (segm,446,female,21,tt0250081,Storytelling,2001,1
@@ -11417,29 +11419,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 3563,ricki tarr,927,male,34,tt1340800,Tinker Tailor Soldier Spy,2011,26
 3563,roy bland,243,male,58,tt1340800,Tinker Tailor Soldier Spy,2011,26
 3563,toby esterhase,285,male,37,tt1340800,Tinker Tailor Soldier Spy,2011,26
-3565,1st officer mur,126,male,40,tt0120338,Titanic,1997,1249
-3565,2nd officer lig,238,male,34,tt0120338,Titanic,1997,1249
-3565,bobby buell,136,male,34,tt0120338,Titanic,1997,1249
-3565,brock lovett,1714,male,42,tt0120338,Titanic,1997,1249
-3565,bruce ismay,392,male,49,tt0120338,Titanic,1997,1249
-3565,caledon 'cal' h,1708,male,31,tt0120338,Titanic,1997,1249
-3565,captain edward,382,male,53,tt0120338,Titanic,1997,1249
-3565,col. archibald,150,male,70,tt0120338,Titanic,1997,1249
-3565,fabrizio,288,male,29,tt0120338,Titanic,1997,1249
-3565,father byles,232,male,NA,tt0120338,Titanic,1997,1249
-3565,frederick fleet,126,male,25,tt0120338,Titanic,1997,1249
-3565,harold bride,118,male,27,tt0120338,Titanic,1997,1249
-3565,lewis bodine,788,male,NA,tt0120338,Titanic,1997,1249
-3565,lizzy calvert,244,female,35,tt0120338,Titanic,1997,1249
-3565,molly brown,738,female,49,tt0120338,Titanic,1997,1249
-3565,old rose,1050,female,87,tt0120338,Titanic,1997,1249
-3565,rose dewitt buk,3958,female,22,tt0120338,Titanic,1997,1249
-3565,ruth dewitt buk,768,female,45,tt0120338,Titanic,1997,1249
-3565,scotland road s,198,male,NA,tt0120338,Titanic,1997,1249
-3565,spicer lovejoy,348,male,56,tt0120338,Titanic,1997,1249
-3565,thomas andrews,784,male,48,tt0120338,Titanic,1997,1249
-3565,tommy ryan,252,male,25,tt0120338,Titanic,1997,1249
-3565,woman,180,female,52,tt0120338,Titanic,1997,1249
 3569,babe brother,2302,male,28,tt0100791,To Sleep with Anger,1990,2
 3569,gideon,3870,male,NA,tt0100791,To Sleep with Anger,1990,2
 3569,harry,5306,male,44,tt0100791,To Sleep with Anger,1990,2
@@ -12006,6 +11985,28 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 3758,shaman,158,male,31,tt1045778,Year One,2009,50
 3758,slave trader,158,male,59,tt1045778,Year One,2009,50
 3758,zed,8922,male,40,tt1045778,Year One,2009,50
+3759,alex,280,male,NA,tt1068680,Yes Man,2008,118
+3759,Allison,3058,female,28,tt1068680,Yes Man,2008,118
+3759,bank customer,294,male,38,tt1068680,Yes Man,2008,118
+3759,bigfoot waitres,256,female,20,tt1068680,Yes Man,2008,118
+3759,carl,9612,male,46,tt1068680,Yes Man,2008,118
+3759,chris rker,1928,male,NA,tt1068680,Yes Man,2008,118
+3759,high school gir,140,female,NA,tt1068680,Yes Man,2008,118
+3759,hot girl,190,female,NA,tt1068680,Yes Man,2008,118
+3759,iranian woman,110,female,NA,tt1068680,Yes Man,2008,118
+3759,jason,418,male,NA,tt1068680,Yes Man,2008,118
+3759,kath,608,female,NA,tt1068680,Yes Man,2008,118
+3759,lucy,1164,female,35,tt1068680,Yes Man,2008,118
+3759,norman,1234,male,34,tt1068680,Yes Man,2008,118
+3759,old woman,110,female,NA,tt1068680,Yes Man,2008,118
+3759,peter,1562,male,33,tt1068680,Yes Man,2008,118
+3759,rooney,810,male,32,tt1068680,Yes Man,2008,118
+3759,sanji,1478,male,NA,tt1068680,Yes Man,2008,118
+3759,seung kim,248,male,NA,tt1068680,Yes Man,2008,118
+3759,stationery prop,218,female,NA,tt1068680,Yes Man,2008,118
+3759,tony,300,male,NA,tt1068680,Yes Man,2008,118
+3759,tour guide,118,female,NA,tt1068680,Yes Man,2008,118
+3759,wiry crunchy wo,156,female,NA,tt1068680,Yes Man,2008,118
 3761,bob steegerson,780,male,39,tt0203230,You Can Count on Me,2000,14
 3761,brian everett,2434,male,38,tt0203230,You Can Count on Me,2000,14
 3761,ron,868,male,38,tt0203230,You Can Count on Me,2000,14
@@ -12227,18 +12228,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 3872,robbie turner,1202,male,28,tt0783233,Atonement,2007,64
 3872,sister drummond,181,female,43,tt0783233,Atonement,2007,64
 3872,tommy nettle,474,male,29,tt0783233,Atonement,2007,64
-3876,alotta fagina,246,female,33,tt0118655,Austin Powers: International Man of Mystery,1997,102
-3876,basil expositio,1082,male,55,tt0118655,Austin Powers: International Man of Mystery,1997,102
-3876,"bolton, virtuco",127,male,35,tt0118655,Austin Powers: International Man of Mystery,1997,102
-3876,dr. evil,1833,male,34,tt0118655,Austin Powers: International Man of Mystery,1997,102
-3876,frau farbissina,317,female,44,tt0118655,Austin Powers: International Man of Mystery,1997,102
-3876,mrs. kensington,297,female,41,tt0118655,Austin Powers: International Man of Mystery,1997,102
-3876,mustafa,240,male,30,tt0118655,Austin Powers: International Man of Mystery,1997,102
-3876,quartermaster c,137,male,NA,tt0118655,Austin Powers: International Man of Mystery,1997,102
-3876,scott evil,443,male,23,tt0118655,Austin Powers: International Man of Mystery,1997,102
-3876,security guard,123,male,NA,tt0118655,Austin Powers: International Man of Mystery,1997,102
-3876,therapist,162,female,41,tt0118655,Austin Powers: International Man of Mystery,1997,102
-3876,vanessa kensing,1370,female,32,tt0118655,Austin Powers: International Man of Mystery,1997,102
 3879,eliza,115,female,NA,tt0491747,Away from Her,2006,20
 3879,grant anderson,2834,male,76,tt0491747,Away from Her,2006,20
 3879,kristy,1283,female,40,tt0491747,Away from Her,2006,20
@@ -12371,9 +12360,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 3928,harry jones,237,male,43,tt0038355,The Big Sleep,1946,NA
 3928,philip marlowe,774,male,47,tt0038355,The Big Sleep,1946,NA
 3928,vivian rutledge,1280,female,22,tt0038355,The Big Sleep,1946,NA
-3930,egg shen,168,male,59,tt0090728,Big Trouble in Little China,1986,26
-3930,jack burton,1372,male,35,tt0090728,Big Trouble in Little China,1986,26
-3930,wang chi,955,male,34,tt0090728,Big Trouble in Little China,1986,26
 3936,abigail whistle,603,female,22,tt0359013,Blade: Trinity,2004,73
 3936,asher talos,108,male,44,tt0359013,Blade: Trinity,2004,73
 3936,blade,676,male,42,tt0359013,Blade: Trinity,2004,73
@@ -13155,12 +13141,14 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 4292,billy batts,150,male,51,tt0099685,Goodfellas,1990,96
 4292,henry hill,7899,male,36,tt0099685,Goodfellas,1990,96
 4292,henry's older c,132,female,5,tt0099685,Goodfellas,1990,96
-4292,jimmy two times,1149,male,NA,tt0099685,Goodfellas,1990,96
+4292,James Conway,1149,male,47,tt0099685,Goodfellas,1990,96
 4292,karen hill,2371,female,36,tt0099685,Goodfellas,1990,96
 4292,karen's mother,207,female,NA,tt0099685,Goodfellas,1990,96
+4292,marty,297,male,NA,tt0099685,Goodfellas,1990,96
 4292,mickey conway,140,female,44,tt0099685,Goodfellas,1990,96
 4292,sonny bunz,224,male,52,tt0099685,Goodfellas,1990,96
 4292,tommy devito,707,male,47,tt0099685,Goodfellas,1990,96
+4292,vario,630,male,NA,tt0099685,Goodfellas,1990,96
 4306,ahmed zubaidi,191,male,NA,tt0947810,Green Zone,2010,38
 4306,briggs,362,male,47,tt0947810,Green Zone,2010,38
 4306,colonel bethel,286,male,NA,tt0947810,Green Zone,2010,38
@@ -13269,6 +13257,21 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 4337,psychiatrist,483,male,52,tt0067185,Harold and Maude,1971,NA
 4337,sunshine doré,436,female,30,tt0067185,Harold and Maude,1971,NA
 4337,uncle victor,1203,male,46,tt0067185,Harold and Maude,1971,NA
+4339,bellatrix lestr,234,female,43,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
+4339,cormac mclaggen,157,male,22,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
+4339,ginny weasley,451,female,18,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
+4339,harry potter,2884,male,20,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
+4339,hermione grange,1251,female,19,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
+4339,lavender brown,108,female,22,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
+4339,luna lovegood,205,female,18,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
+4339,mr weasley,273,male,NA,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
+4339,neville longbot,449,male,20,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
+4339,professor albus,2486,male,69,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
+4339,professor horac,2430,male,60,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
+4339,professor sever,508,male,63,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
+4339,remus lupin,104,male,46,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
+4339,ron weasley,1086,male,21,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
+4339,rubeus hagrid,316,male,59,tt0417741,Harry Potter and the Half-Blood Prince,2009,350
 4341,dan,274,male,NA,tt2257436,Hate Crime,2012,NA
 4341,melissa,217,female,46,tt2257436,Hate Crime,2012,NA
 4341,one,1619,male,NA,tt2257436,Hate Crime,2012,NA
@@ -13854,6 +13857,14 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 4583,lt. of detectiv,1419,male,39,tt0033870,The Maltese Falcon,1941,NA
 4583,samuel spade,536,male,42,tt0033870,The Maltese Falcon,1941,NA
 4583,wilmer cook,954,male,38,tt0033870,The Maltese Falcon,1941,NA
+4588,agamemnon,183,male,60,tt0073349,Mandingo,1975,NA
+4588,Blanche Maxwell,665,female,25,tt0073349,Mandingo,1975,NA
+4588,cicero,212,male,33,tt0073349,Mandingo,1975,NA
+4588,doc redfield,129,male,51,tt0073349,Mandingo,1975,NA
+4588,hammond maxwell,1056,male,27,tt0073349,Mandingo,1975,NA
+4588,mede,253,male,32,tt0073349,Mandingo,1975,NA
+4588,meg,138,male,NA,tt0073349,Mandingo,1975,NA
+4588,warren maxwell,815,male,66,tt0073349,Mandingo,1975,NA
 4589,captain doyle,1283,male,46,tt0112533,Bloodfist VII: Manhunt,1995,NA
 4589,jim trudell,909,male,41,tt0112533,Bloodfist VII: Manhunt,1995,NA
 4589,johnny marvosa,783,male,33,tt0112533,Bloodfist VII: Manhunt,1995,NA
@@ -14319,6 +14330,14 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 4765,sabu,252,male,NA,tt0114084,Panther,1995,13
 4765,stokely carmich,216,male,38,tt0114084,Panther,1995,13
 4765,tyrone,1207,male,22,tt0114084,Panther,1995,13
+4769,dr malinowski,110,male,NA,tt0071970,The Parallax View,1974,NA
+4769,hildy,433,female,NA,tt0071970,The Parallax View,1974,NA
+4769,joseph frady,3053,male,37,tt0071970,The Parallax View,1974,NA
+4769,marian,489,female,NA,tt0071970,The Parallax View,1974,NA
+4769,pelikas,473,male,NA,tt0071970,The Parallax View,1974,NA
+4769,trumbull,1101,male,NA,tt0071970,The Parallax View,1974,NA
+4769,willy,378,male,NA,tt0071970,The Parallax View,1974,NA
+4769,winston,358,male,NA,tt0071970,The Parallax View,1974,NA
 4774,capt. terlesky,108,male,33,tt0353092,The Partners,2003,NA
 4774,christine ryder,1414,female,31,tt0353092,The Partners,2003,NA
 4774,eddie,191,male,38,tt0353092,The Partners,2003,NA
@@ -15000,6 +15019,26 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 5126,mr. wabash,233,male,73,tt0073802,Three Days of the Condor,1975,NA
 5126,s.w. wicks,188,male,53,tt0073802,Three Days of the Condor,1975,NA
 5126,tv reporter,105,male,52,tt0073802,Three Days of the Condor,1975,NA
+5136,2nd officer lig,153,male,34,tt0120338,Titanic,1997,1249
+5136,brock lovett,1062,male,42,tt0120338,Titanic,1997,1249
+5136,bruce ismay,286,male,49,tt0120338,Titanic,1997,1249
+5136,caledon 'cal' h,1210,male,31,tt0120338,Titanic,1997,1249
+5136,captain edward,252,male,53,tt0120338,Titanic,1997,1249
+5136,col. archibald,102,male,70,tt0120338,Titanic,1997,1249
+5136,fabrizio,189,male,29,tt0120338,Titanic,1997,1249
+5136,father byles,149,male,NA,tt0120338,Titanic,1997,1249
+5136,jack dawson,2607,male,23,tt0120338,Titanic,1997,1249
+5136,lewis bodine,649,male,NA,tt0120338,Titanic,1997,1249
+5136,lizzy calvert,158,female,35,tt0120338,Titanic,1997,1249
+5136,molly brown,474,female,49,tt0120338,Titanic,1997,1249
+5136,old rose,641,female,87,tt0120338,Titanic,1997,1249
+5136,rose dewitt buk,2792,female,22,tt0120338,Titanic,1997,1249
+5136,ruth dewitt buk,502,female,45,tt0120338,Titanic,1997,1249
+5136,scotland road s,154,male,NA,tt0120338,Titanic,1997,1249
+5136,spicer lovejoy,287,male,56,tt0120338,Titanic,1997,1249
+5136,thomas andrews,559,male,48,tt0120338,Titanic,1997,1249
+5136,tommy ryan,166,male,25,tt0120338,Titanic,1997,1249
+5136,woman,116,female,52,tt0120338,Titanic,1997,1249
 5142,albert 'gloansy,238,male,NA,tt0840361,The Town,2010,101
 5142,bearns,127,male,NA,tt0840361,The Town,2010,101
 5142,big mac,177,male,NA,tt0840361,The Town,2010,101
@@ -15315,17 +15354,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 5248,rogue,169,female,21,tt0290334,X-Men 2,2003,310
 5248,storm,392,female,37,tt0290334,X-Men 2,2003,310
 5248,william stryker,758,male,57,tt0290334,X-Men 2,2003,310
-5251,alter,1011,female,NA,tt2062717,Y: The Last Man,2011,NA
-5251,beth deville,733,female,NA,tt2062717,Y: The Last Man,2011,NA
-5251,businessman,130,male,NA,tt2062717,Y: The Last Man,2011,NA
-5251,congresswoman b,314,female,NA,tt2062717,Y: The Last Man,2011,NA
-5251,dr mann,1016,female,NA,tt2062717,Y: The Last Man,2011,NA
-5251,rachel,643,female,NA,tt2062717,Y: The Last Man,2011,NA
-5251,sonia,578,female,NA,tt2062717,Y: The Last Man,2011,NA
-5251,supermodel,236,female,NA,tt2062717,Y: The Last Man,2011,NA
-5251,theresa,198,female,NA,tt2062717,Y: The Last Man,2011,NA
-5251,victoria,684,female,NA,tt2062717,Y: The Last Man,2011,NA
-5251,yorick brown,3279,male,NA,tt2062717,Y: The Last Man,2011,NA
 5256,baron stockmar,710,male,61,tt0962736,The Young Victoria,2009,12
 5256,baroness lehzen,578,female,40,tt0962736,The Young Victoria,2009,12
 5256,duchess of kent,718,female,51,tt0962736,The Young Victoria,2009,12
@@ -15465,16 +15493,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 5350,minister,184,male,68,tt0094012,Spaceballs,1987,84
 5350,president skroo,352,male,61,tt0094012,Spaceballs,1987,84
 5350,princess vespa,632,female,25,tt0094012,Spaceballs,1987,84
-5352,bob mckenzie,2524,male,30,tt0086373,Strange Brew,1983,NA
-5352,brewmeister smi,772,male,54,tt0086373,Strange Brew,1983,NA
-5352,claude elsinore,872,male,55,tt0086373,Strange Brew,1983,NA
-5352,doug mckenzie,2372,male,34,tt0086373,Strange Brew,1983,NA
-5352,henry green,192,male,61,tt0086373,Strange Brew,1983,NA
-5352,jack hawkland,239,male,NA,tt0086373,Strange Brew,1983,NA
-5352,jean larose,229,male,36,tt0086373,Strange Brew,1983,NA
-5352,parking attenda,126,male,NA,tt0086373,Strange Brew,1983,NA
-5352,ted,299,male,NA,tt0086373,Strange Brew,1983,NA
-5352,the inspector,330,male,59,tt0086373,Strange Brew,1983,NA
 5361,billy deverell,235,male,39,tt0335563,Wonderland,2003,1
 5361,billy ward,477,male,55,tt0335563,Wonderland,2003,1
 5361,david lind,907,male,42,tt0335563,Wonderland,2003,1
@@ -16051,7 +16069,7 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 5488,neville baraka,1630,male,48,tt2039393,The Gambler,2014,35
 5488,roberta,724,female,65,tt2039393,The Gambler,2014,35
 5489,catherine,110,female,24,tt1343092,The Great Gatsby,2013,155
-5489,daisy's mother,1006,female,NA,tt1343092,The Great Gatsby,2013,155
+5489,Daisy,1006,female,28,tt1343092,The Great Gatsby,2013,155
 5489,jay gatsby,3021,male,39,tt1343092,The Great Gatsby,2013,155
 5489,jordan baker,577,female,23,tt1343092,The Great Gatsby,2013,155
 5489,meyer wolfsheim,236,male,71,tt1343092,The Great Gatsby,2013,155
@@ -16085,7 +16103,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 5492,fanny ternan,126,female,31,tt1700845,The Invisible Woman,2013,1
 5492,maria ternan,161,female,28,tt1700845,The Invisible Woman,2013,1
 5492,mr. george whar,286,male,32,tt1700845,The Invisible Woman,2013,1
-5492,Mrs. Frances Te,818,female,53,tt1700845,The Invisible Woman,2013,1
 5492,nelly,2216,female,30,tt1700845,The Invisible Woman,2013,1
 5492,rev. william be,500,male,NA,tt1700845,The Invisible Woman,2013,1
 5492,wilkie collins,425,male,46,tt1700845,The Invisible Woman,2013,1
@@ -16138,22 +16155,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 5502,stephen hawking,1894,male,32,tt2980516,The Theory of Everything,2014,38
 5502,swiss doctor,101,male,46,tt2980516,The Theory of Everything,2014,38
 5502,technician,108,male,NA,tt2980516,The Theory of Everything,2014,38
-5505,aaron,2917,male,37,tt3152624,Trainwreck,2015,113
-5505,allister,223,male,NA,tt3152624,Trainwreck,2015,113
-5505,amar'e stoudemi,107,male,33,tt3152624,Trainwreck,2015,113
-5505,bryson,218,male,NA,tt3152624,Trainwreck,2015,113
-5505,dianna,893,female,55,tt3152624,Trainwreck,2015,113
-5505,donald,280,male,23,tt3152624,Trainwreck,2015,113
-5505,gordon,1079,male,56,tt3152624,Trainwreck,2015,113
-5505,kim,526,female,26,tt3152624,Trainwreck,2015,113
-5505,lebron james,807,male,31,tt3152624,Trainwreck,2015,113
-5505,marv albert,230,male,74,tt3152624,Trainwreck,2015,113
-5505,nikki,213,female,34,tt3152624,Trainwreck,2015,113
-5505,noam,161,male,50,tt3152624,Trainwreck,2015,113
-5505,schultz,125,male,47,tt3152624,Trainwreck,2015,113
-5505,steven,790,male,38,tt3152624,Trainwreck,2015,113
-5505,tom,202,male,37,tt3152624,Trainwreck,2015,113
-5505,tony romo,144,male,35,tt3152624,Trainwreck,2015,113
 5506,arlen hird,757,male,48,tt3203606,Trumbo,2015,NA
 5506,buddy ross,261,male,53,tt3203606,Trumbo,2015,NA
 5506,cleo trumbo,725,female,50,tt3203606,Trumbo,2015,NA
@@ -16300,7 +16301,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 5528,kala,387,female,52,tt0120855,Tarzan,1999,292
 5528,kerchak,250,male,59,tt0120855,Tarzan,1999,292
 5528,professor porte,471,male,70,tt0120855,Tarzan,1999,292
-5528,song,265,female,36,tt0120855,Tarzan,1999,292
 5528,tantor,320,male,44,tt0120855,Tarzan,1999,292
 5528,tarzan,538,male,39,tt0120855,Tarzan,1999,292
 5528,terk,838,female,37,tt0120855,Tarzan,1999,292
@@ -16421,15 +16421,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 5916,school inspecto,129,male,53,tt0118799,Life Is Beautiful,1997,109
 5916,School Principa,250,female,57,tt0118799,Life Is Beautiful,1997,109
 5916,uncle eliseo,276,male,74,tt0118799,Life Is Beautiful,1997,109
-5954,dr. marcus brod,433,male,59,tt0082971,Raiders of the Lost Ark,1981,9
-5954,dr. rené belloq,126,male,38,tt0082971,Raiders of the Lost Ark,1981,9
-5954,fayah,336,female,NA,tt0082971,Raiders of the Lost Ark,1981,9
-5954,gobler,675,male,34,tt0082971,Raiders of the Lost Ark,1981,9
-5954,indy,230,male,39,tt0082971,Raiders of the Lost Ark,1981,9
-5954,major arnold to,1645,male,46,tt0082971,Raiders of the Lost Ark,1981,9
-5954,marion ravenwoo,162,female,30,tt0082971,Raiders of the Lost Ark,1981,9
-5954,sallah,2035,male,37,tt0082971,Raiders of the Lost Ark,1981,9
-5954,satipo,237,male,28,tt0082971,Raiders of the Lost Ark,1981,9
 6000,abel sunday,286,male,NA,tt0469494,There Will Be Blood,2007,50
 6000,al rose,175,male,NA,tt0469494,There Will Be Blood,2007,50
 6000,bandy,224,male,64,tt0469494,There Will Be Blood,2007,50
@@ -16473,8 +16464,7 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 6026,taran,2196,male,NA,tt0088814,The Black Cauldron,1985,51
 6026,the horned king,613,male,45,tt0088814,The Black Cauldron,1985,51
 6029,1982 championsh,110,male,63,tt2120120,Pixels,2015,81
-6029,brenner,118,male,49,tt2120120,Pixels,2015,81
-6029,president's ass,671,female,41,tt2120120,Pixels,2015,81
+6029,brenner,789,male,49,tt2120120,Pixels,2015,81
 6029,scotty,156,male,NA,tt2120120,Pixels,2015,81
 6029,violet,406,female,39,tt2120120,Pixels,2015,81
 6030,admiral tuwey,806,male,71,tt1272878,2 Guns,2013,80
@@ -17043,6 +17033,12 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 6331,stacker penteco,1272,male,41,tt1663662,Pacific Rim,2013,109
 6331,takada,662,male,NA,tt1663662,Pacific Rim,2013,109
 6331,yancy becket,166,male,34,tt1663662,Pacific Rim,2013,109
+6333,alain charnier,280,male,58,tt0073018,French Connection II,1975,NA
+6333,Barthélémy,223,male,44,tt0073018,French Connection II,1975,NA
+6333,doyle,1459,male,45,tt0073018,French Connection II,1975,NA
+6333,fournier,279,male,NA,tt0073018,French Connection II,1975,NA
+6333,miletto,107,male,54,tt0073018,French Connection II,1975,NA
+6333,old woman,148,female,NA,tt0073018,French Connection II,1975,NA
 6356,carlos,226,male,NA,tt0101917,Freddy's Dead: The Final Nightmare,1991,72
 6356,carlos' mother,226,female,59,tt0101917,Freddy's Dead: The Final Nightmare,1991,72
 6356,doc,664,male,52,tt0101917,Freddy's Dead: The Final Nightmare,1991,72
@@ -17145,7 +17141,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 6446,ppv director,162,male,32,tt0120832,Snake Eyes,1998,103
 6446,rick santoro,4580,male,34,tt0120832,Snake Eyes,1998,103
 6446,ring announcer,225,male,NA,tt0120832,Snake Eyes,1998,103
-6446,serena,116,female,38,tt0120832,Snake Eyes,1998,103
 6446,walt mcgahn,379,male,48,tt0120832,Snake Eyes,1998,103
 6454,baron karl von,225,male,41,tt0075194,The Seven-Per-Cent Solution,1976,NA
 6454,berger,113,male,40,tt0075194,The Seven-Per-Cent Solution,1976,NA
@@ -17237,6 +17232,16 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 6499,cop,108,male,NA,tt0420293,The Stanford Prison Experiment,2015,0
 6499,father macallis,173,male,61,tt0420293,The Stanford Prison Experiment,2015,0
 6499,Tye Sheridan,1553,male,19,tt0420293,The Stanford Prison Experiment,2015,0
+6509,amy courtland,129,female,NA,tt0074991,Obsession,1976,NA
+6509,dr. ellman,226,male,53,tt0074991,Obsession,1976,NA
+6509,farber,150,male,NA,tt0074991,Obsession,1976,NA
+6509,insp. brie,308,male,65,tt0074991,Obsession,1976,NA
+6509,jane,143,female,38,tt0074991,Obsession,1976,NA
+6509,michael courtla,2025,male,53,tt0074991,Obsession,1976,NA
+6509,newscaster,175,male,50,tt0074991,Obsession,1976,NA
+6509,Robert Lasalle,877,male,31,tt0074991,Obsession,1976,NA
+6509,sandra portinar,1398,female,34,tt0074991,Obsession,1976,NA
+6509,ticket agent,116,male,40,tt0074991,Obsession,1976,NA
 6511,detective,278,female,NA,tt0070334,The Long Goodbye,1973,NA
 6511,detective farme,245,male,52,tt0070334,The Long Goodbye,1973,NA
 6511,dr. verringer,374,male,38,tt0070334,The Long Goodbye,1973,NA
@@ -19246,6 +19251,19 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 7607,mrs. sampson,167,female,42,tt0060490,Harper,1966,NA
 7607,puddler,276,male,39,tt0060490,Harper,1966,NA
 7607,susan harper,133,female,39,tt0060490,Harper,1966,NA
+7610,Bobbie Markowe,2953,female,37,tt0073747,The Stepford Wives,1975,NA
+7610,carol van sant,958,female,41,tt0073747,The Stepford Wives,1975,NA
+7610,claude axhelm,449,male,46,tt0073747,The Stepford Wives,1975,NA
+7610,dale coba,466,male,48,tt0073747,The Stepford Wives,1975,NA
+7610,Dr. Fancher,254,female,38,tt0073747,The Stepford Wives,1975,NA
+7610,ed wimpiris,196,male,47,tt0073747,The Stepford Wives,1975,NA
+7610,j a,221,female,35,tt0073747,The Stepford Wives,1975,NA
+7610,Joanna Eberhart,2386,female,35,tt0073747,The Stepford Wives,1975,NA
+7610,Joanna Eberhart,275,female,37,tt0073747,The Stepford Wives,1975,NA
+7610,kit sunderson,254,female,34,tt0073747,The Stepford Wives,1975,NA
+7610,mrs. kirgassa,196,female,54,tt0073747,The Stepford Wives,1975,NA
+7610,ted van sant,274,male,41,tt0073747,The Stepford Wives,1975,NA
+7610,walter eberhart,3258,male,41,tt0073747,The Stepford Wives,1975,NA
 7623,doctor,115,male,NA,tt1336617,Cyrus,2010,8
 7623,jamie,686,female,51,tt1336617,Cyrus,2010,8
 7623,john,4071,male,45,tt1336617,Cyrus,2010,8
@@ -19591,24 +19609,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 7759,smee,423,male,NA,tt3332064,Pan,2015,36
 7759,Tiger Lily,2128,female,30,tt3332064,Pan,2015,36
 7759,turk,546,male,NA,tt3332064,Pan,2015,36
-7762,amanda grayson,206,female,38,tt0796366,Star Trek,2009,299
-7762,ayel,205,male,39,tt0796366,Star Trek,2009,299
-7762,Bones,698,male,37,tt0796366,Star Trek,2009,299
-7762,Captain Robau,250,male,46,tt0796366,Star Trek,2009,299
-7762,chekov,280,male,20,tt0796366,Star Trek,2009,299
-7762,george jr,119,male,NA,tt0796366,Star Trek,2009,299
-7762,george kirk,254,male,26,tt0796366,Star Trek,2009,299
-7762,nero,362,male,41,tt0796366,Star Trek,2009,299
-7762,officer pitts,146,male,27,tt0796366,Star Trek,2009,299
-7762,pike,874,male,53,tt0796366,Star Trek,2009,299
-7762,sarek,309,male,62,tt0796366,Star Trek,2009,299
-7762,scotty,500,male,39,tt0796366,Star Trek,2009,299
-7762,spock,1727,male,32,tt0796366,Star Trek,2009,299
-7762,spock prime,1136,male,78,tt0796366,Star Trek,2009,299
-7762,sulu,392,male,37,tt0796366,Star Trek,2009,299
-7762,uhura,476,female,31,tt0796366,Star Trek,2009,299
-7762,vulcan science,169,male,77,tt0796366,Star Trek,2009,299
-7762,winona kirk,150,female,30,tt0796366,Star Trek,2009,299
 7763,Delacourt,846,female,51,tt1535108,Elysium,2013,99
 7763,frey,1363,female,30,tt1535108,Elysium,2013,99
 7763,head smuggler,173,male,43,tt1535108,Elysium,2013,99
@@ -19712,6 +19712,22 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 7808,jonathan trager,2844,male,35,tt0240890,Serendipity,2001,76
 7808,lars hammond,225,male,40,tt0240890,Serendipity,2001,76
 7808,sara thomas,2727,female,28,tt0240890,Serendipity,2001,76
+7814,ab dal,469,male,NA,tt0073906,The Wind and the Lion,1975,NA
+7814,admiral chadwic,123,male,48,tt0073906,The Wind and the Lion,1975,NA
+7814,berber,166,male,NA,tt0073906,The Wind and the Lion,1975,NA
+7814,capt. jerome,582,male,29,tt0073906,The Wind and the Lion,1975,NA
+7814,dreighton,231,male,27,tt0073906,The Wind and the Lion,1975,NA
+7814,eden pedecaris,1792,female,29,tt0073906,The Wind and the Lion,1975,NA
+7814,gummere,485,male,40,tt0073906,The Wind and the Lion,1975,NA
+7814,john hay,451,male,69,tt0073906,The Wind and the Lion,1975,NA
+7814,president's aid,125,male,NA,tt0073906,The Wind and the Lion,1975,NA
+7814,raisuli,2364,male,45,tt0073906,The Wind and the Lion,1975,NA
+7814,sir joseph,340,male,46,tt0073906,The Wind and the Lion,1975,NA
+7814,the bashaw,158,male,52,tt0073906,The Wind and the Lion,1975,NA
+7814,theodore roosev,2539,male,54,tt0073906,The Wind and the Lion,1975,NA
+7814,ugly arab,152,male,44,tt0073906,The Wind and the Lion,1975,NA
+7814,wa zan,356,male,NA,tt0073906,The Wind and the Lion,1975,NA
+7814,william pedecar,188,male,14,tt0073906,The Wind and the Lion,1975,NA
 7818,"bill jarvis, fr",203,male,50,tt0112864,Die Hard: With a Vengeance,1995,200
 7818,charles weiss,198,male,32,tt0112864,Die Hard: With a Vengeance,1995,200
 7818,dexter,106,male,NA,tt0112864,Die Hard: With a Vengeance,1995,200
@@ -20063,7 +20079,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 7931,gustavo leon,157,male,NA,tt0266465,A Man Apart,2003,37
 7931,hollywood jack,1073,male,35,tt0266465,A Man Apart,2003,37
 7931,hondo,132,male,50,tt0266465,A Man Apart,2003,37
-7931,nightclub worke,825,female,NA,tt0266465,A Man Apart,2003,37
 7931,overdose,283,male,NA,tt0266465,A Man Apart,2003,37
 7931,pomona joe,273,male,50,tt0266465,A Man Apart,2003,37
 7931,sean vetter,2213,male,36,tt0266465,A Man Apart,2003,37
@@ -20782,12 +20797,16 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 8253,sam tipton,124,male,43,tt0104952,My Cousin Vinny,1992,110
 8253,stan rothenstei,451,male,28,tt0104952,My Cousin Vinny,1992,110
 8253,vinny gambini,1764,male,49,tt0104952,My Cousin Vinny,1992,110
-8255,anderson,112,male,NA,tt1663202,The Revenant,2015,147
-8255,bridger,418,male,22,tt1663202,The Revenant,2015,147
-8255,captain andrew,787,male,32,tt1663202,The Revenant,2015,147
-8255,hugh glass,904,male,41,tt1663202,The Revenant,2015,147
-8255,john fitzgerald,1950,male,38,tt1663202,The Revenant,2015,147
-8255,toussaint,108,male,NA,tt1663202,The Revenant,2015,147
+8257,anderson,172,male,NA,tt1663202,The Revenant,2015,147
+8257,brazeau,155,male,NA,tt1663202,The Revenant,2015,147
+8257,bridger,411,male,22,tt1663202,The Revenant,2015,147
+8257,captain andrew,833,male,32,tt1663202,The Revenant,2015,147
+8257,hugh glass,1148,male,41,tt1663202,The Revenant,2015,147
+8257,john fitzgerald,1722,male,38,tt1663202,The Revenant,2015,147
+8257,murphy,137,male,43,tt1663202,The Revenant,2015,147
+8257,pig,381,male,NA,tt1663202,The Revenant,2015,147
+8257,runty man,221,male,NA,tt1663202,The Revenant,2015,147
+8257,yellow horse,216,male,NA,tt1663202,The Revenant,2015,147
 8274,bob diamond,3648,male,60,tt0101698,Defending Your Life,1991,33
 8274,comedian,108,male,NA,tt0101698,Defending Your Life,1991,33
 8274,daniel miller,4458,male,44,tt0101698,Defending Your Life,1991,33
@@ -20938,7 +20957,7 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 8360,ron,304,male,50,tt0084805,Tootsie,1982,523
 8360,sandy,492,female,35,tt0084805,Tootsie,1982,523
 8382,almaric,269,male,35,tt0320661,Kingdom of Heaven,2005,64
-8382,balian's wife,2312,female,NA,tt0320661,Kingdom of Heaven,2005,64
+8382,Balian de Ibeli,2312,male,28,tt0320661,Kingdom of Heaven,2005,64
 8382,english sergean,118,male,32,tt0320661,Kingdom of Heaven,2005,64
 8382,godfrey de ibel,491,male,53,tt0320661,Kingdom of Heaven,2005,64
 8382,guy de lusignan,742,male,39,tt0320661,Kingdom of Heaven,2005,64
@@ -21090,6 +21109,20 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 8434,sohachiro tsuch,198,male,33,tt0080979,Kagemusha,1980,NA
 8434,takemaru,132,male,NA,tt0080979,Kagemusha,1980,NA
 8434,zenjiro amemiya,148,male,34,tt0080979,Kagemusha,1980,NA
+8446,betty ann,266,female,NA,tt0076637,Rolling Thunder,1977,NA
+8446,brannigan,227,male,NA,tt0076637,Rolling Thunder,1977,NA
+8446,brother-in-law,118,male,31,tt0076637,Rolling Thunder,1977,NA
+8446,candy,105,female,26,tt0076637,Rolling Thunder,1977,NA
+8446,cliff,188,male,31,tt0076637,Rolling Thunder,1977,NA
+8446,janet,205,female,36,tt0076637,Rolling Thunder,1977,NA
+8446,johnny vohden,622,male,31,tt0076637,Rolling Thunder,1977,NA
+8446,linda forchet,1559,female,30,tt0076637,Rolling Thunder,1977,NA
+8446,major charles r,3720,male,38,tt0076637,Rolling Thunder,1977,NA
+8446,mark,211,male,NA,tt0076637,Rolling Thunder,1977,NA
+8446,maxwell,590,male,45,tt0076637,Rolling Thunder,1977,NA
+8446,mexican,414,male,NA,tt0076637,Rolling Thunder,1977,NA
+8446,sanchez,239,male,NA,tt0076637,Rolling Thunder,1977,NA
+8446,sister,148,female,NA,tt0076637,Rolling Thunder,1977,NA
 8471,ashley,255,female,NA,tt1922777,Sinister,2012,52
 8471,deputy,1267,male,33,tt1922777,Sinister,2012,52
 8471,ellison oswalt,3031,male,42,tt1922777,Sinister,2012,52
@@ -21165,6 +21198,15 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 8506,james butler 'w,1562,male,46,tt0114938,Wild Bill,1995,4
 8506,preacher,439,male,51,tt0114938,Wild Bill,1995,4
 8506,will plummer,234,male,59,tt0114938,Wild Bill,1995,4
+8508,cab driver,216,male,NA,tt0110265,Killing Zoe,1993,0
+8508,claude,351,male,28,tt0110265,Killing Zoe,1993,0
+8508,eric,2931,male,38,tt0110265,Killing Zoe,1993,0
+8508,jean,323,male,38,tt0110265,Killing Zoe,1993,0
+8508,oge,166,male,NA,tt0110265,Killing Zoe,1993,0
+8508,oliver,709,male,34,tt0110265,Killing Zoe,1993,0
+8508,ricardo,360,male,27,tt0110265,Killing Zoe,1993,0
+8508,zed,1418,male,32,tt0110265,Killing Zoe,1993,0
+8508,zoe,708,female,24,tt0110265,Killing Zoe,1993,0
 8510,bev kilmartin,451,female,32,tt0113552,Kiss of Death,1995,29
 8510,calvin hart,358,male,47,tt0113552,Kiss of Death,1995,29
 8510,frank zioli,732,male,35,tt0113552,Kiss of Death,1995,29
@@ -21912,15 +21954,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 8935,montgomery,2100,male,37,tt0116654,The Island of Dr. Moreau,1996,54
 8935,prendick,1947,male,NA,tt0116654,The Island of Dr. Moreau,1996,54
 8935,Sayer of the La,226,male,NA,tt0116654,The Island of Dr. Moreau,1996,54
-8949,clay,147,male,20,tt0842926,The Kids Are All Right,2010,22
-8949,jai,190,male,23,tt0842926,The Kids Are All Right,2010,22
-8949,joni,1274,female,21,tt0842926,The Kids Are All Right,2010,22
-8949,jules,2077,female,50,tt0842926,The Kids Are All Right,2010,22
-8949,laser,544,male,18,tt0842926,The Kids Are All Right,2010,22
-8949,luis,101,male,58,tt0842926,The Kids Are All Right,2010,22
-8949,nic,2296,female,52,tt0842926,The Kids Are All Right,2010,22
-8949,sasha,126,female,22,tt0842926,The Kids Are All Right,2010,22
-8949,tanya,160,female,28,tt0842926,The Kids Are All Right,2010,22
 8958,benedict,136,male,47,tt0107362,Last Action Hero,1993,105
 8958,danny madigan,802,male,12,tt0107362,Last Action Hero,1993,105
 8958,jack slater,1091,male,46,tt0107362,Last Action Hero,1993,105
@@ -21940,11 +21973,6 @@ script_id,imdb_character_name,words,gender,age,imdb_id,title,year,gross
 8963,ned beaumont,1165,male,NA,tt0479942,Last Time Forever,2006,NA
 8963,sam masterson,178,male,52,tt0479942,Last Time Forever,2006,NA
 8963,tom conovan,843,male,NA,tt0479942,Last Time Forever,2006,NA
-8968,arjen rudd,251,male,61,tt0097733,Lethal Weapon 2,1989,322
-8968,captain murphy,200,male,59,tt0097733,Lethal Weapon 2,1989,322
-8968,leo getz,753,male,46,tt0097733,Lethal Weapon 2,1989,322
-8968,martin riggs,1337,male,33,tt0097733,Lethal Weapon 2,1989,322
-8968,roger murtaugh,663,male,43,tt0097733,Lethal Weapon 2,1989,322
 8970,admiral ohsugi,241,male,NA,tt0498380,Letters from Iwo Jima,2006,18
 8970,baron nishi,755,male,43,tt0498380,Letters from Iwo Jima,2006,18
 8970,Captain Iwasaki,214,male,45,tt0498380,Letters from Iwo Jima,2006,18
